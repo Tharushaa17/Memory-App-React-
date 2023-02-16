@@ -9,13 +9,13 @@ const MainNavigation = () => {
         <nav>
             <ul>
                 <li>
-                    <Link to='/'>All Meet up</Link>
+                    <Link to='/'>All Meetup</Link>
                 </li>
                 <li>
                     <Link to='/favourites'>Favourites</Link>
                 </li>
                 <li>
-                    <Link to='/newmeetups'>New Meet up</Link>
+                    <Link to='/newmeetups'>Add New Meetup</Link>
                 </li>
             </ul>
         </nav>
